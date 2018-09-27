@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Three</string>
+
+    <string name="HelloButton">Hello Button</string>
+    <string name="HowYouDoingButton">How You Doing Button</string>
+    <string name="WatzUpButton">Watz Up Button</string>
+    <string name="SeeYaButton">See Ya Button</string>
+</resources>
